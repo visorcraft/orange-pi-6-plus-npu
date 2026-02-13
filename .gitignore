@@ -12,3 +12,7 @@ modules.order
 
 # Test binary
 test_noe
+
+# Compiled binaries
+bench_all
+bench_npu
